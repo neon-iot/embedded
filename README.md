@@ -29,6 +29,9 @@ The student will learn how to design, develop and test embedded systems consider
 * Analog Discovery 2 from Digilent (or oscilloscope, signal generator, logic analyzer, and variable power supply).
 * Sensors [BoosterPack](https://www.ti.com/tool/BOOSTXL-SENSORS) plug-in module.
 
+## Authors:
+* Julián Oreggioni
+* Carolina Cabrera
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -40,3 +43,4 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+![logo_neon_erasmus](https://user-images.githubusercontent.com/49734900/152565208-e9326ee5-a2a5-4096-bd2a-10ace4c855e6.png)
