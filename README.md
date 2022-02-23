@@ -27,7 +27,7 @@ The student will learn how to design, develop and test embedded systems consider
 * An [MSP-EXP430G2ET](https://www.ti.com/tool/MSP-EXP430G2ET) launchpad from Texas Instruments.
 * A PC with [Code Composer Studio](https://www.ti.com/tool/CCSTUDIO) IDE installed.
 * Analog Discovery 2 from Digilent (or oscilloscope, signal generator, logic analyzer, and variable power supply).
-* Sensors [BoosterPack](https://www.ti.com/tool/BOOSTXL-SENSORS) plug-in module.
+* Sensors [BoosterPack](https://www.ti.com/tool/BOOSTXL-SENSORS) plug-in module from Texas Instruments.
 
 ## Authors:
 * Julián Oreggioni
