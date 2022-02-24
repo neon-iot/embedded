@@ -46,5 +46,5 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-<img src="https://bit.ly/35ifw5G" alt="drawing" width="370"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.fing.edu.uy/sites/default/files/2013/7186/logo_FING_rgb.jpg" alt="drawing" width="160"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.fing.edu.uy/proyectos/chicastics/img/logos/iie.png" alt="drawing" width="240"/>
+<img src="https://bit.ly/35ifw5G" alt="drawing" width="370"/>&nbsp;&nbsp;<img src="https://www.fing.edu.uy/sites/default/files/2013/7186/logo_FING_rgb.jpg" alt="drawing" width="160"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.fing.edu.uy/proyectos/chicastics/img/logos/iie.png" alt="drawing" width="240"/>
 ![logo_neon_erasmus](https://user-images.githubusercontent.com/49734900/152565208-e9326ee5-a2a5-4096-bd2a-10ace4c855e6.png)
