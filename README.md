@@ -30,8 +30,11 @@ The student will learn how to design, develop and test embedded systems consider
 * Sensors [BoosterPack](https://www.ti.com/tool/BOOSTXL-SENSORS) plug-in module from Texas Instruments.
 
 ## Authors:
-* Julián Oreggioni
-* Carolina Cabrera
+* **Julián Oreggioni.**
+_Julián Oreggioni received the B.Sc., M.Sc., and Ph. D. degrees in Electrical Engineering from Universidad de la República, Uruguay, in 2006, 2013, and 2018 respectively. He is currently Assistant Professor with the Instituto de Ingeniería Eléctrica, Universidad de la República (Montevideo, Uruguay). He is a lecturer on embedded systems (graduate and undergraduate) and analog electronics (undergraduate). He has more than ten years of experience in the electronics industry (M2M, e-commerce, vending machines, agrotech, and medical devices). He holds several patents and is co-author of many technical articles. His main research interests include the design of ultra-low-power analog integrated circuits and systems, and low-power embedded systems, for biomedical and agrotech applications._
+* **Carolina Cabrera.**
+_Carolina Cabrera received the B.Sc. degree in electrical engineering from the Universidad de la República, Uruguay, in 2019, where she is currently pursuing the M.Sc. degree in electrical engineering with the Instituto de Ingeniería Eléctrica. She is currently working as Researcher and Teaching Assistant with the Instituto de Ingeniería Eléctrica, Universidad de la República, focusing on low-noise and low-power analog circuit design, especially for biomedical applications. Her current research interests include low-power and low-noise analog circuit design, wireless embedded systems, and signal processing with reduced resources. 
+She is a assistant lecturer on embedded systems (graduate and undergraduate course) and analog electronics (undergraduate course)._
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
