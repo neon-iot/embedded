@@ -1,4 +1,4 @@
-# Laboratorios
+# Laboratories
 
 * [Instalación del entorno de desarrollo](guia_inicializacion_lab.pdf)
 * [Laboratorio 1: Introducción al entorno de desarrollo CCS](lab1_introduccion_entorno_ccs.pdf)

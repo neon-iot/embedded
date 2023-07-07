@@ -2,7 +2,16 @@
 ## About this course
 The student will approve the course by performing hands-on laboratories and a real-time embedded systems project. The project includes writing a technical report about the designed system and an oral presentation.
 This course consists of 22 hours of lectures, 16 hours of hands-on laboratory, 10 hours for consultations, 2 hours for evaluation, and 80 hours to develop the project. The course lasts seventeen weeks.
+The course includes [lectures](slides/README.md), [laboratories](labs/README.md), and  final project. 
 The responsible for this course is Julián Oreggioni at FING/UDELAR, Montevideo, Uruguay.
+
+## About this teaching material
+The material available consists of [lectures](slides/README.md) and [laboratories](labs/README.md) (in Spanish).
+More information, material, and active discussion forums can be found [here](https://eva.fing.edu.uy/course/view.php?id=581).
+
+## Video lectures playlist
+Video lectures can be access through the following playlist. It contains the 2021 lectures which corresponds to the uploades slides in the `slides` folder.
+[Playlist](https://open.fing.edu.uy/courses/sisem).
 
 ## Main topics
 * **Introduction and basic concepts.** Introduction to embedded systems and real-time embedded systems, hardware for embedded systems, embedded-software development methodologies.
