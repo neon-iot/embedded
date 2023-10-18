@@ -2,7 +2,6 @@
 
 * [Presentación del curso](T0-Presentacion.pdf)
 * [Introducción y conceptos básicos](T1-Introduccion.pdf)
-* [Encuesta sobre el mercado de sistemas embebidos](T1-EETimes_Embedded_2019_Embedded_Markets_Study.pdf)
 * [Introducción al lenguaje C](T2-LenguajeC.pdf)
 * [Herramientas de desarrollo de software embebido](T3-Desarrollo.pdf)
 * [Git: introducción al control de versiones](T4-GIT.pdf)
